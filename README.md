@@ -1,12 +1,12 @@
-#DSD2016#
-
-
+##DSD2016 JLU Site Athentication Server##
 
 Module: Authentication Server 
 
-University: JLU Team:Naive
+University: Jilin University
 
-Memembers: 
+Team: Naive
+
+#Memembers(Chinese Name/Nickname/e-mail):#
 
 Yang Dechuan	John	yangdechuan@vip.sina.com
 
@@ -21,5 +21,12 @@ Xie Yuanxiang	yuanxiang	Analyst,Developer
 Su Jingbo	Francis	sujb2113@mails.jlu.edu.cn	
 
 
+Directory:
+
+doc/	document of JLU Naive Authentication Server
+src/	source code of JLU Naive
+
+
 
 created by Prince 2016.4.11
+modified by Prince 2016.4.27
