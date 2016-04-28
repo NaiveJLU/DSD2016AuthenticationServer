@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\Users\Mote\Workspaces\DSD2016AuthenticationServer\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1615321996.index
+1926438698.index
+2239375672.index
+2095753192.index
