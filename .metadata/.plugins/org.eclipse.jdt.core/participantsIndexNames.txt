@@ -1,3 +1,0 @@
-INDEX VERSION 1.126
-C:\Users\Mote\Workspaces\DSD2016AuthenticationServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\896702190.index
-\JLU_NaiveAuthServer\src
